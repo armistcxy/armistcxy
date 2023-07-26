@@ -4,10 +4,11 @@ body {
     margin: 0;
     padding: 0;
 }
-a:visited { 
-    text-decoration: none; 
-    color: orange; 
-}
+a { text-decoration: none; color:rgb(25, 63, 187); }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
 header {
     background-color: #333;
     color: #fff;
