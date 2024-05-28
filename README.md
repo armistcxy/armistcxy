@@ -1,10 +1,10 @@
 <h1>👋 Hello World, I'm Hoang</h1>
 <h3>I'm currently studying at VNU University of Engineering and Technology. <br> My major is Computer Science </h3>
 
-- 🤔 I'm interested in **Backend Development, Microservices**
-- 🌱 I’m currently learning **Golang, Java**
+- 🤔 I'm interested in **Backend Development**
+- 🌱 I’m currently learning **Golang, Python**
 - 📩 Reach me at **adlehoang118@gmail.com**
-- 🚀 My GPA is 3.7
+- 🚀 My GPA is 3.56
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
