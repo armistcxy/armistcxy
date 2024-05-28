@@ -15,11 +15,11 @@
 
 <h3>🏆 Github Stats</h3>
 <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MeoUGato&theme=radical&show_icons=true" alt="NgoLeHoang's Github Stats" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=armistcxy&theme=radical&show_icons=true" alt="NgoLeHoang's Github Stats" width="60%"/>
 </p>
 
 <h3 align="left">Connect </h3>
 <p align="left">
-<a href="www.linkedin.com/in/lê-hoàng-ngô-b3a269251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="le hoang ngo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lh_118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lh_118" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iwa2no/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="le hoang ngo" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/iwa2no/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lh_118" height="30" width="40" /></a>
 </p>
