@@ -4,7 +4,7 @@
 - 🤔 I'm interested in **Backend Development**
 - 🌱 I’m currently learning **Golang, Python**
 - 📩 Reach me at **adlehoang118@gmail.com**
-- 🚀 My GPA is 3.56
+- 🚀 My GPA is 3.63
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
