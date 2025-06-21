@@ -4,7 +4,7 @@
 - 🤔 I'm interested in **Backend Development, Database, Distributed Computing, Concurrency-Related Problems**
 - 🌱 I’m currently learning **Go, Python, C**
 - 📩 Reach me at **adlehoang118@gmail.com**
-- 🚀 My GPA is 3.63
+- 🚀 My GPA is 3.7
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
