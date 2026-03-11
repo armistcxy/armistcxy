@@ -13,10 +13,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
-<h3>🏆 Github Stats</h3>
-<p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=armistcxy&theme=radical&show_icons=true" alt="NgoLeHoang's Github Stats" width="60%"/>
-</p>
 
 <h3 align="left">Connect </h3>
 <p align="left">
